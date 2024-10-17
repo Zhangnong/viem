@@ -39,6 +39,7 @@ export { bearNetworkChainMainnet } from './definitions/bearNetworkChainMainnet.j
 export { bearNetworkChainTestnet } from './definitions/bearNetworkChainTestnet.js'
 export { berachainTestnet } from './definitions/berachainTestnet.js'
 export { berachainTestnetbArtio } from './definitions/berachainTestnetbArtio.js'
+export { bifrost } from './definitions/bifrost.js'
 export { bevmMainnet } from './definitions/bevmMainnet.js'
 export { bitkub } from './definitions/bitkub.js'
 export { bitkubTestnet } from './definitions/bitkubTestnet.js'
